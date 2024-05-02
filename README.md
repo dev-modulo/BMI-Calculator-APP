@@ -4,9 +4,9 @@ This repository contains a Flutter app for calculating Body Mass Index (BMI). Th
 
 ## Screenshots
 
-![sc1](https://github.com/dev-modulo/BMI-Calculator-APP/assets/168773169/0725b1cd-98b9-4bf5-b3ec-cf2022b6e99d)
+<img width = "300" src="https://github.com/dev-modulo/BMI-Calculator-APP/assets/168773169/0725b1cd-98b9-4bf5-b3ec-cf2022b6e99d" />
 
-![sc2](https://github.com/dev-modulo/BMI-Calculator-APP/assets/168773169/1bac266c-f241-462a-a5b5-22122acba653)
+ <img width = "300" src="https://github.com/dev-modulo/BMI-Calculator-APP/assets/168773169/1bac266c-f241-462a-a5b5-22122acba653" />
 
 
 ## Features
